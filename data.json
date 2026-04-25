@@ -10,12 +10,12 @@
     "profil_tiktok": "https://www.tiktok.com/@alimatou.gnanou",
     "profil_facebook": "https://www.facebook.com/people/Pheea/61587312061576/",
     "profil_instagram": "https://www.instagram.com/pheeafashion",
-    "total": 79,
+    "total": 81,
     "vinted": 78,
-    "tiktok": 0,
+    "tiktok": 2,
     "facebook": 1,
     "instagram": 0,
-    "mis_a_jour": "25/04/2026 21:04",
+    "mis_a_jour": "25/04/2026 21:18",
     "statut": "ok"
   },
   "articles": [
@@ -31,7 +31,7 @@
       "marque": "MyMo Menu relatif à la marque Taille S /",
       "etat": "Très bon état Matière Polyester Couleur",
       "matiere": "Polyester Couleur Argenté Ajouté Il y a",
-      "couleur": "Argenté Ajouté Il y a 8 minutes Très bon"
+      "couleur": "Argenté Ajouté Il y a 21 minutes Très bo"
     },
     {
       "id": "8747436911",
@@ -45,7 +45,7 @@
       "marque": "Zara Menu relatif à la marque Taille S /",
       "etat": "Neuf avec étiquette Couleur Noir Ajouté",
       "matiere": "",
-      "couleur": "Noir Ajouté Il y a 14 minutes Neuf avec"
+      "couleur": "Noir Ajouté Il y a 27 minutes Neuf avec"
     },
     {
       "id": "8747413260",
@@ -58,8 +58,8 @@
       "taille": "M / 38 / 10 État Neuf avec étiquette Mat",
       "marque": "Tommy Hilfiger Menu relatif à la marque",
       "etat": "Neuf avec étiquette Matière Coton Couleu",
-      "matiere": "Coton Couleur Bleu clair Ajouté Il y a 1",
-      "couleur": "Bleu clair Ajouté Il y a 18 minutes Neuf"
+      "matiere": "Coton Couleur Bleu clair Ajouté Il y a 3",
+      "couleur": "Bleu clair Ajouté Il y a 30 minutes Neuf"
     },
     {
       "id": "8747241977",
@@ -72,8 +72,8 @@
       "taille": "M / 38 / 10 État Neuf avec étiquette Mat",
       "marque": "Jewelly Menu relatif à la marque Taille",
       "etat": "Neuf avec étiquette Matière Coton Couleu",
-      "matiere": "Coton Couleur Noir, Bleu Ajouté Il y a 3",
-      "couleur": "Noir, Bleu Ajouté Il y a 39 minutes Neuf"
+      "matiere": "Coton Couleur Noir, Bleu Ajouté Il y a u",
+      "couleur": "Noir, Bleu Ajouté Il y a une heure Neuf"
     },
     {
       "id": "8747149452",
@@ -965,7 +965,7 @@
       "platform": "Vinted",
       "lien": "https://www.vinted.be/items/8319756582",
       "image": "https://images1.vinted.net/t/06_016df_1J58KPH4wFfUSBFofLqWasZK/310x430/1772718737.webp?s=9d7305a99f73f48354dd02b5fe462e5d4038905d",
-      "taille": "38/M M / 38 / 10",
+      "taille": "M / 38 / 10 État Neuf avec étiquette Mat",
       "marque": "JJXX Menu relatif à la marque Taille M /",
       "etat": "Neuf avec étiquette Matière Coton Couleu",
       "matiere": "Coton Couleur Gris Ajouté Il y a 7 semai",
@@ -1112,13 +1112,35 @@
       "couleur": "Blanc, Fuchsia Ajouté Il y a 8 semaines"
     },
     {
+      "id": "tt_7630782185959689505",
+      "titre": "Alimatou Gnanou's short video with No Broke Boys X Better Off Alone",
+      "prix": 0,
+      "cat": "Femme",
+      "platform": "TikTok",
+      "lien": "https://www.tiktok.com/@alimatou.gnanou/video/7630782185959689505",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ogToMOLx5DDIfAFj3G1Q1AQETyI2gbfP6vfDE4~tplv-tiktokx-origin.image?dr=10395&x-expires=1777316400&x-signature=zuVUr6KO8gdMmCfoD8Fs9hQH82A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "taille": "",
+      "marque": ""
+    },
+    {
+      "id": "tt_7628189883848281376",
+      "titre": "Alimatou Gnanou's short video with nothing burns like the cold",
+      "prix": 0,
+      "cat": "Femme",
+      "platform": "TikTok",
+      "lien": "https://www.tiktok.com/@alimatou.gnanou/video/7628189883848281376",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8FOpDYI82FMDc5fEQqccmplxfRi3AcPEQ5BCP~tplv-tiktokx-origin.image?dr=10395&x-expires=1777316400&x-signature=HxSYbCNNLP7it%2F%2Bypw7yVMW4ulw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "taille": "",
+      "marque": ""
+    },
+    {
       "id": "fb_https___www_facebook_com_photo_",
       "titre": "Article de mode · Pépite PheeA",
       "prix": 0,
       "cat": "Femme",
       "platform": "Facebook",
       "lien": "https://www.facebook.com/photo/",
-      "image": "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.30808-6/672351446_122117453343243735_5436945100432084287_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=u3zENyFzX9oQ7kNvwH5YguP&_nc_oc=AdpMs7Dt0De0ToT7S4S_NUDC1wdwntQ0ZSZBGsO3deMGOGSRNLKqR916ryDGLh0i1nE&_nc_zt=23&_nc_ht=scontent-cdg6-1.xx&_nc_gid=kDTXzJQT1C4iK01OPIWCnQ&_nc_ss=7a289&oh=00_Af11pCz0pJcwCOLg5TO5vwBhf0rpn8d3j6qmgxzMPxgDHQ&oe=69F2DBB4",
+      "image": "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.30808-6/672351446_122117453343243735_5436945100432084287_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=u3zENyFzX9oQ7kNvwH5YguP&_nc_oc=AdpMs7Dt0De0ToT7S4S_NUDC1wdwntQ0ZSZBGsO3deMGOGSRNLKqR916ryDGLh0i1nE&_nc_zt=23&_nc_ht=scontent-cdg6-1.xx&_nc_gid=0e54ojpaJ9mTM-IJx18JTQ&_nc_ss=7a289&oh=00_Af0ZW9AD5vlvaMXNsPIf9U8bLVa2nfpjR5tkMNHgY2BeLQ&oe=69F2DBB4",
       "taille": "",
       "marque": ""
     }
